@@ -1,0 +1,3 @@
+# hello world
+# This is a blog made with jekyll
+# It's about computing and more...
